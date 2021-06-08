@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 maqueta.html
+maqueta.css
 
 # testing
 /coverage
